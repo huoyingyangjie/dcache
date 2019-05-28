@@ -1,6 +1,6 @@
 # dcache
 disk cache 
 
-# idea
+## idea
 disk block -> hash ->hash rbtree ->times rbtree ->timestamp link list
 
